@@ -1,6 +1,5 @@
 <! Version 1.9.5
 
-[*] Fixed covid!state
-[*] Run covid!sub in #cmds to get bot updates in the future.
+[*] Changelog will be posted here instead.
 
 !>
