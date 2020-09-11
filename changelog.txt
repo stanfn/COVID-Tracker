@@ -1,6 +1,5 @@
 <! Version 1.9.6
 
-[*] Bug fixes
 [*] Emojis will now react correspondingly on covid!info (TESTING)
 
 !>
