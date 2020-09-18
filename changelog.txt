@@ -1,5 +1,6 @@
-<! Version 1.9.6
+<! Version 1.9.7
 
-[*] Emojis will now react correspondingly on covid!info (TESTING)
+[*] Emojis will now react correspondingly on all commands
+[*] Added covid!8ball cause why not.
 
 !>
