@@ -1,6 +1,5 @@
-<! Version 1.9.7
+<! Version 1.9.8
 
-[*] Emojis will now react correspondingly on all commands
-[*] Added covid!8ball cause why not.
+[*] 👏 COUNTRY FLAG ADDED TO COVID!STATS 👏
 
 !>
