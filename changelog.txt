@@ -1,5 +1,5 @@
-<! Version 1.9.8
+<! Version 2.0.0
 
-[*] 👏 COUNTRY FLAG ADDED TO COVID!STATS 👏
+[*] Added covid!top (1-30)
 
 !>
